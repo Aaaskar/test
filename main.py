@@ -2,3 +2,5 @@
 def printing():
     print('hello')
 
+def new_line():
+    pass
